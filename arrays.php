@@ -9,6 +9,7 @@
     foreach($array1 as $valor){
         echo "Dato" . $contador1 . "º" . ": " . $valor . "<br>";
         $contador1++;
+        
     }
 
     echo "<h1>Ejercicio 2</h1><br>";
